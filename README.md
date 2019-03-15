@@ -6,9 +6,8 @@ This was built by Nsseif in less than 2 days as part of a collaborative case stu
 The Data Science team analyzed training data to build the model as well as the API and the front-end pulls in the latest events in real-time.
 
 # Prerequisites <br>
-cd into frap
-npm install react
-
+cd into frap <br>
+npm install <br>
 
 NOTE: The data is too sensitive to share publicly, so this uses made-up events from a simple API.
 
