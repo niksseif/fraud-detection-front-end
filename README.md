@@ -5,7 +5,7 @@ Front-end dashboard built with React for (hypothetical) employees at an event co
 This was built by Nsseif in less than 2 days as part of a collaborative case study in partnership with 4 members from Galvanize's Data Science Immersive. 
 The Data Science team analyzed training data to build the model as well as the API and the front-end pulls in the latest events in real-time.
 
-#Prerequisites
+# Prerequisites <br>
 cd into frap
 npm install react
 
